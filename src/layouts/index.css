@@ -104,3 +104,33 @@ a {
     grid-template-columns: repeat(3, 1fr);
   }
 }
+
+.CardGroup {
+  margin: 50px 40px 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+  justify-items: center;
+
+}
+.Cards h2 {
+  margin: 50px 20px;
+  font-size:60px;
+  text-align: center;
+  font-weight: 700px;
+  background: linear-gradient(104deg, #10b8a1 0%, #1670c4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 1060px) {
+  .CardGroup {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .CardGroup {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
