@@ -1,0 +1,52 @@
+{
+    "cells": [
+        {
+            "title": "Intro to React",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Basic Styling in CSS",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Adaptive Layout with CSS Grid",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Interactions and Animations",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "SVG Animations",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Components and Props",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Status and Events",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Styled Components",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Static Data with JSON",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "GraphQL with Contentful",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Publish to Netlify",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        },
+        {
+            "title": "Payment with Stripe Checkout",
+            "image" : "http://localhost:8000/static/logo-react.fd4808f3.png"
+        }
+    ]
+}
